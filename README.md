@@ -7,6 +7,9 @@ This project is a simple calculator built using Python's Tkinter library. The ca
 - Error Handling: Displays an error message if an invalid operation is performed.
 - Graphical Interface: User-friendly interface with clickable buttons for each digit and operation.
 
+## Screenshot
+![Screenshot of Calculator](Screenshot_Calculator.png)
+
 ## Requirements
 - Python 3.x
 - Tkinter library
